@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Bio](./bio.html) - [CV](./coming-soon.html) - [Papers](./coming-soon.html) - [Collaboration](./coming-soon.html)
+[Bio](./bio.html) - [CV](./coming-soon.html) - [Publications](./coming-soon.html) - [Collaboration](./coming-soon.html)
 
 I'm a PhD candidate at McGill University and the Mila AI Institute, supervised by Reihaneh Rabbany. I'm also a member of the Centre for the Study of Democratic Citizenship and a research scientist intern at FAR AI.
 
