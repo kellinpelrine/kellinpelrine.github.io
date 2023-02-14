@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Bio](./bio.html) - [CV](./coming-soon.html) - [Publications](./coming-soon.html) - [Collaboration](./coming-soon.html)
+
 ## Bio
 
 Kellin Pelrine is currently a PhD candidate at McGill University and the Mila AI Institute, supervised by Reihaneh Rabbany. He's also a member of the Centre for the Study of Democratic Citizenship and a research scientist intern at FAR AI. Previously he completed a master's in economics at Yale University, and a master's in applied mathematics at the University of Colorado at Boulder.
