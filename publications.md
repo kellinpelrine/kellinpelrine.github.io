@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Bio](./bio.html) - [CV](https://github.com/kellinpelrine/kellinpelrine.github.io/raw/master/assets/KPelrine%20CV.pdf) - [Publications](https://scholar.google.com/citations?user=_s2HT_0AAAAJ&hl=en) - [Collaboration](./coming-soon.html)
+[Full Bio](./bio.html) - [CV](https://github.com/kellinpelrine/kellinpelrine.github.io/raw/master/assets/KPelrine%20CV.pdf) - [Publications](https://scholar.google.com/citations?user=_s2HT_0AAAAJ&hl=en) - [Collaboration](./coming-soon.html)
 
 ## Publications
 
