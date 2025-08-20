@@ -3,7 +3,7 @@ layout: default
 ---
 [Full Bio](./bio.html) - [CV](https://github.com/kellinpelrine/kellinpelrine.github.io/raw/master/assets/KPelrine%20CV.pdf) - [Publications](./publications.html)
 
-I'm a Member of Technical Staff at [FAR.AI](https://far.ai/) and a PhD candidate at McGill University and the [Mila AI Institute](https://mila.quebec/en/).
+I'm a Member of Technical Staff at [FAR.AI](https://far.ai/).
 
 I lead cross-functional teams aiming to build solutions on technical foundations. We're working to uncover, understand, and solve AI risks across misuse, misalignment, and loss of control. Some active lines of work span tampering, persuasion, red-teaming, evaluation, and demos. 
 
